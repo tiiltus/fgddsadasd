@@ -1,0 +1,33 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1 {
+  color: White;
+  background-color: grey;
+  font-weight: 450;
+  font-size: 20px;
+  opacity: 0.7;
+}
+p {
+  font-family: helvetica;
+  font-style: italic;
+  color: orange;
+  background-color: lightgray;
+}
+li {
+  font-family: arial, sans-serif;
+  font-style: oblique;
+  background-color: black;
+  color: white;
+}
+p,
+li {
+  font-size: 18px;
+}
+
+
+a {
+  text-decoration: none;
+}
